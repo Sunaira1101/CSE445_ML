@@ -30,19 +30,6 @@ Table II: Accuracy for different algorithms on dataset after using various hyper
 
 A research paper based on this project was also published. You may find more about the project [here](https://ieeexplore.ieee.org/document/10499515)
 
-<h1><b>Cite This Paper</b></h1>
-If you use this code and model for your research, please consider citing:
 
-@INPROCEEDINGS{10499515,
-author={Leeon, Shakirul Islam and Sunaira, Fahrin Hossain and Nehlin, Shanila and Abdal, S.A.M. Zahin and Momen, Sifat},
-booktitle={2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)}, 
-title={A Machine Learning Approach for Early Detection of Learning Disorders in Pediatrics}, 
-year={2024},
-volume={},
-number={},
-pages={1-6},
-keywords={Autism; Pediatrics; Machine learning algorithms; Computational modeling; Predictive models; Aging; Reliability; Autism Spectrum Disorder; Learning Disorder; Pediatric},
-doi={10.1109/iCACCESS61735.2024.10499515}
-}
 
 
