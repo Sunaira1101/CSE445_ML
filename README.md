@@ -6,6 +6,7 @@ Learning disorders are common among Pediatric individuals with Autism Spectrum D
 
 <h1><b>Result Table</b></h1>
 Table I: Accuracy for different algorithms on dataset
+
 | Algorithms              | Accuracy | Precision | Recall | F1 Score | Train Time (ms) |
 |-------------------------|----------|-----------|--------|----------|-----------------|
 | K-NN (n=5)              | 98.38%   | 100.00%   | 98.00% | 99.00%   | 0               |
@@ -18,7 +19,9 @@ Table I: Accuracy for different algorithms on dataset
 | Logistic Regression     | 99.03%   | 100.00%   | 99.00% | 99.00%   | 15.63           |
 
 
+
 Table II: Accuracy for different algorithms on dataset after using various hyperparameter optimizers
+
 | Algorithms              | RandomizedSearch CV(%)	| GridSearch CV(%) |
 |-------------------------|-------------------------|------------------|
 | Random Forest (gini)    | 99.22%                  | 99.22%           |
